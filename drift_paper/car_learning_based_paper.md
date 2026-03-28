@@ -1,0 +1,1 @@
+[Racing-LMPC-ROS2-Github](https://github.com/MPC-Berkeley/Racing-LMPC-ROS2) [Paper](https://arxiv.org/abs/2309.10716)
