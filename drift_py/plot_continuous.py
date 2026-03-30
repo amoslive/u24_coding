@@ -1,4 +1,5 @@
 from matplotlib import pyplot as plt
+from pandas import read_csv 
 import matplotlib as mpl
 import matplotlib.animation as animation
 from matplotlib.patches import Rectangle
@@ -19,17 +20,17 @@ parser.add_argument("--save_gif", action="store_true")
 args = parser.parse_args()
 
 # ===================== 读取数据 =====================
-if args.filename is None:
-    list_of_files = glob.glob('data/*')
-    latest_file = max(list_of_files, key=os.path.getctime)
-    filename = latest_file
-else:
-    filename = args.filename
+list_of_files = glob.glob('data/*')
+latest_file = max(list_of_files, key=os.path.getctime)
+data = torch.load(latest_file)
 
-print(f"Loading: {filename}")
-data = torch.load(filename)
+list_of_files_traj = glob.glob('data/traj*')
+latest_file_traj = max(list_of_files_traj, key=os.path.getctime)
+data_traj = read_csv(latest_file_traj, header=None)
 
-# ===================== 状态曲线 =====================
+filename = latest_file if args.filename is None else args.filename
+
+# ===================== 状态图 =====================
 fig, axs = plt.subplots(3, 1, sharex=True)
 
 axs[0].plot([es[7] for (s, u, es, _) in data])
@@ -49,12 +50,10 @@ plt.close()
 # ===================== 动画 =====================
 fig, ax = plt.subplots()
 
-# ===== continuous drift 通常是圆轨迹 =====
-theta = np.linspace(0, 2 * np.pi, 200)
-radius = 1.0
-ax.plot(radius * np.cos(theta), radius * np.sin(theta), 'r--')
+# ✅ 正确参考轨迹（关键！！）
+ax.plot(data_traj[0], data_traj[1], 'r--', label="reference")
 
-# ===== 数据 =====
+# 数据
 x = np.array([s[0] for (s, u, es, _) in data])
 y = np.array([s[1] for (s, u, es, _) in data])
 psi = np.array([s[2] for (s, u, es, _) in data])
@@ -66,10 +65,12 @@ ax.set_title("Continuous Drift (β colored)")
 
 # 自动缩放
 margin = 0.5
-ax.set_xlim(x.min() - margin, x.max() + margin)
-ax.set_ylim(y.min() - margin, y.max() + margin)
+ax.set_xlim(min(x.min(), data_traj[0].min()) - margin,
+            max(x.max(), data_traj[0].max()) + margin)
+ax.set_ylim(min(y.min(), data_traj[1].min()) - margin,
+            max(y.max(), data_traj[1].max()) + margin)
 
-# ===== 轨迹 =====
+# 轨迹
 traj_line, = ax.plot([], [], 'b-', linewidth=1.5)
 
 # ===== 小车 =====
@@ -100,7 +101,7 @@ rear_right = create_wheel()
 for w in [front_left, front_right, rear_left, rear_right]:
     ax.add_patch(w)
 
-# ===== β颜色映射 =====
+# β颜色
 norm = mpl.colors.Normalize(vmin=beta.min(), vmax=beta.max())
 cmap = plt.cm.jet
 
@@ -118,7 +119,6 @@ def update(frame):
     delta_ = delta[frame]
     beta_ = beta[frame]
 
-    # 删除旧箭头
     if arrow is not None:
         arrow.remove()
 
@@ -182,8 +182,6 @@ ani = animation.FuncAnimation(
 )
 
 # ===================== 输出 =====================
-# python plot_u24.py
-# python plot_u24.py --save_gif
 if args.save_gif:
     print("Saving GIF...")
     ani.save(f"{filename}_car_beta.gif", writer="pillow", fps=30)
