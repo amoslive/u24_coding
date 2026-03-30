@@ -8,7 +8,7 @@ import os
 import torch
 import argparse
 import numpy as np
-
+#动画只有箭头
 # ===================== 参数 =====================
 parser = argparse.ArgumentParser()
 parser.add_argument("--filename", type=str, default=None)
