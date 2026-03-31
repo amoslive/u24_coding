@@ -22,6 +22,9 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 申美签：好像不用保证金，直接填表，有护照和居留卡就行
 >[慕尼黑美签攻略(全流程)](https://www.xiaohongshu.com/explore/687761ed000000002400c574?xsec_token=ABr4Lgp0T-JYHSRBEZplcwNbiW9lfo0ayHGJi9330tNgI=&xsec_source=pc_search&source=web_search_result_notes)
 
+>[🇩🇪学生美签丝滑下签repo -时间线与准备](https://www.xiaohongshu.com/explore/67eaed7c000000001b0384a3?xsec_token=ABAnJYqlMqN01Ca0J_AnrOpYhvLKgc9EszSUfKs0O94kc=&xsec_source=pc_search&source=web_search_result_notes)
+
+
 >[ds160 Application](https://ceac.state.gov/GenNIV/Default.aspx)
 
 >[全网最全的美签办理指南1](https://www.xiaohongshu.com/explore/698d7e8b000000001a0260aa?xsec_token=ABzrOE5fcflnDSDlqpzldPPZBqIWteNPSr-YX4aRE_NTc=&xsec_source=pc_search&source=web_profile_page)  ds160填写步骤
