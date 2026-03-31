@@ -24,6 +24,8 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 
 >[🇩🇪学生美签丝滑下签repo -时间线与准备](https://www.xiaohongshu.com/explore/67eaed7c000000001b0384a3?xsec_token=ABAnJYqlMqN01Ca0J_AnrOpYhvLKgc9EszSUfKs0O94kc=&xsec_source=pc_search&source=web_search_result_notes)
 
+>[预约面签时间]（https://www.usvisascheduling.com/en-US/
+）
 
 >[ds160 Application](https://ceac.state.gov/GenNIV/Default.aspx)
 
