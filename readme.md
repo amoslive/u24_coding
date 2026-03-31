@@ -26,6 +26,8 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 
 >[全网最全的美签办理指南1](https://www.xiaohongshu.com/explore/698d7e8b000000001a0260aa?xsec_token=ABzrOE5fcflnDSDlqpzldPPZBqIWteNPSr-YX4aRE_NTc=&xsec_source=pc_search&source=web_profile_page)  ds160填写步骤
 
+>[美签DS160表填写详细攻略](https://www.xiaohongshu.com/explore/69c108e6000000001d01db53?xsec_token=ABvuTZT4nhBBw3iH0bQlrwY2I6ViM4zk9A1CT7jKh7nIY=&xsec_source=pc_search&source=web_note_detail_r10)
+
 >[紐約市中心萬豪酒店
 ](https://hk.trip.com/hotels/detail/?cityId=633&hotelId=1565913&checkIn=2026-07-15&checkOut=2026-07-20&adult=2&children=0&subStamp=1092&crn=1&ages=&travelpurpose=0&curr=HKD&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6z8TFJMEkxMTBKPWFiePCwqdr2YQYjQ04LT4JOtpyXV-8QW6jgyeQLvC1uOUQwFPIAAINyQ6TGG04jUGgu85B8OwZIOCpcVBSUGDRhKgIdjCEMSyecQaxcnx0kWCJYnBi41i1UVyCZRKjHTnaNRgRBshwasb0H_o6pc9B8JsGkCXa46DBBJSe8EoPlzQzfmkWmPQMxpsn41cwMm5kBMt5bHbYwch8gvGz2gKmz3PZdzGxc7Qs3M0owXKIiY3j1lwlCZZTTAyXmBhuMTE8Aoo86gRKvWJi-MTE8AvIfb5TVYKliZmhi5lhEjMbx-o3bBIss5hZOY5JS7AsYmaQ4jVNNDcyMTIzNDM1TbJUENJYem_9OTYjpUmMTB7epxilDM1NTc1NTSxMzcwMjfQMDMws3L0LTIIDzJKsmKUY3TxYg9iMnZ3NXZyjtLiYQ4NdBNWCWRdPmiXtIMXs4e2iGH9JYu1irTf2WiA5Q5hcEmtVhq6Hd8YB0QLGLkYOAUYPxgjGCsZXjCA9P0DeBwCErf3OGgIAAA&subChannel=&masterhotelid_tracelogid=5a724261655b9&NewTaxDescForAmountshowtype0=T&detailFilters=19%7C633%7E19%7E633*17%7C1%7E17%7E1*80%7C0%7C1%7E80%7E0&hotelType=normal&display=exavg&barcurr=HKD&locale=zh-HK) New York Marriott Downtown,
 85 West Street at, Albany St, 10006 紐約, 紐約州, 美國. Phone Number:12123854900. Email Address:amie.lau@marriott.com
