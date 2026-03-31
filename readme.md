@@ -34,6 +34,7 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 
 >[慕尼黑紐約 汉莎航空 7.15-7.20](https://hk.trip.com/flights/ShowFareNext?pagesource=list&triptype=RT&class=Y&quantity=1&childqty=0&babyqty=0&jumptype=GoToNextJournay&dcity=muc&acity=nyc&ddate=2026-07-15&dcityName=Munich&acityName=New%20York&rdate=2026-07-20&currentseqno=2&criteriaToken=SGP_SGP-ALI_PIDReduce-74c3d9f7-2ba4-40bc-802a-94aff9980a77%5EList-e6a7d1e3-ce75-47ad-81d9-726e28b3cc17&shoppingid=SGP_SGP-ALI_PIDReduce-940ce7e0-79d1-4375-8a53-6b7fa88d34e5%5EList-026ab6dd-1549-4b41-bddd-a5a3aa03e976&groupKey=SGP_SGP-ALI_PIDReduce-940ce7e0-79d1-4375-8a53-6b7fa88d34e5%5EList-026ab6dd-1549-4b41-bddd-a5a3aa03e976&airline=&locale=zh-HK&curr=HKD)
 
+>[纽约旅游攻略 2026](https://www.meilvtong.com/viewthread.php?tid=40)   旅游景点
 
 
 打车发票
