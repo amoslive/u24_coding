@@ -12,6 +12,11 @@ Simulink可以调用onxx加载NN
 
 Python调用Simulink（当作黑盒，给输入u，它输出状态）
 
+### 思路断点
+#### plot Omega只有两维（fixed circle）
+
+添加到四维plot报错没有这两维
+
 ### 临时待办计划区 0330
 
 申美签：好像不用保证金，直接填表，有护照和居留卡就行
