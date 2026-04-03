@@ -20,6 +20,8 @@
 
 [注]：通过urdf和运算实时给出M等矩阵。
 
+[pinocchio-overview](https://gepettoweb.laas.fr/doc/stack-of-tasks/pinocchio/devel/doxygen-html/)
+
 ## 计算机
 
 如何用好计算机，就好比是摸金校尉有个法器，如何用它一样。
