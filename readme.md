@@ -1,5 +1,11 @@
 [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
 
+>VSCode在两个不同的窗口中打开（独立窗口）不同项目工程
+>
+>**Ctrl + Shift + N** (Windows/Linux) 或 Cmd + Shift + N (Mac) 直接**打开一个空的新窗口**
+>
+>Ctrl + r 打开最近的项目列表。 Cmd + Enter 从列表中在新窗口中打开项目。
+
 [模型转换：从.pth到.onnx的超详细步骤](https://zhuanlan.zhihu.com/p/9140198009)
 
 [车辆仿真与建模（二）基于 Simulink 搭建整车动力学模型用于底盘控制开发及整车性能评估](https://www.bilibili.com/video/BV1LY4y1H7zC/?vd_source=251c62c44a57f3794b5f1c23f7913b1e)
