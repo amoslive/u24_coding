@@ -60,4 +60,4 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 #### zjk退票32.5欧
 
 
-https://www.amazon.de/LINDY-Netzwerkkabel-Cat-6A-FTP-Grau/dp/B0CFR794MX
+https://www.amazon.de/LINDY-Netzwerkkabel-Cat-6A-FTP-Grau-Grey/dp/B0CFR68TSH
