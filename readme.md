@@ -54,6 +54,8 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 #### zjk退票32.5欧 
 已发邮件，进行中
 
+#### 4月15号前DB Bahncard转62.9欧（备注）
+
 #### 买网线Amazon解封中
 
 ## overall思路断点
