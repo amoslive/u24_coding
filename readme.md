@@ -46,18 +46,20 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 
 #### u24 apt upgrade 报错，有空修一下（已截图）
 
-#### 邮寄箱子GD
+#### 邮寄箱子广东
 
 #### 德国之前打工退税，一个月如果交15%税，2k欧工资6个月，能退1k8欧
 
 
-### overall思路断点
+#### zjk退票32.5欧 
+已发邮件，进行中
+
+#### 买网线Amazon解封中
+
+## overall思路断点
 
 #### 德语班可以布局一下
 
 #### 健身房卡也可以看一下，就算只有周末去练两次也可以
 
-#### zjk退票32.5欧
 
-
-https://www.amazon.de/LINDY-Netzwerkkabel-Cat-6A-FTP-Grau-Grey/dp/B0CFR68TSH
