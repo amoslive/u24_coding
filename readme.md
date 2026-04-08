@@ -1,10 +1,20 @@
 [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
 
+
 >VSCode在两个不同的窗口中打开（独立窗口）不同项目工程
 >
 >**Ctrl + Shift + N** (Windows/Linux) 或 Cmd + Shift + N (Mac) 直接**打开一个空的新窗口**
 >
 >Ctrl + r 打开最近的项目列表。 Cmd + Enter 从列表中在新窗口中打开项目。
+
+>在md里嵌入python代码
+>
+>```python
+>print("hello")
+>x = 1 + 2
+>print(x)
+>```
+>`是键盘上方数字1左边的键
 
 [模型转换：从.pth到.onnx的超详细步骤](https://zhuanlan.zhihu.com/p/9140198009)
 
