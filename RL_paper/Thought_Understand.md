@@ -7,6 +7,10 @@
 >
 >首先，在各种环境中配置种类繁多的机器人，定义 RL 任务，并使用 GPU 优化库 (例如 RSL RL、RL-Games、SKRL 和 Stable Baselines3) 训练模型
 
+>http://github.com/Denys88/rl_games
+>
+>给出了参数yaml文件的各个参数含义
+
 
 
 ## 关于物理仿真引擎
