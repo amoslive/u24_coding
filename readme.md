@@ -8,7 +8,7 @@
 >Ctrl + r 打开最近的项目列表。 Cmd + Enter 从列表中在新窗口中打开项目。
 
 >在md里嵌入python代码
->
+>````md
 >**```python**
 >
 >print("hello")
@@ -18,7 +18,7 @@
 >print(x)
 >
 >**```**
->
+>````
 >`是键盘上方数字1左边的键
 
 [模型转换：从.pth到.onnx的超详细步骤](https://zhuanlan.zhihu.com/p/9140198009)
