@@ -10,8 +10,7 @@
 >http://github.com/Denys88/rl_games
 >
 >给出了参数yaml文件的各个参数含义
->
->[git里作者给的例子](https://colab.research.google.com/github/Denys88/rl_games/blob/master/notebooks/mujoco_envpool_training.ipynb)
+
 
 
 
