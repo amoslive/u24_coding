@@ -3,6 +3,12 @@
 
 [注]：就好像MPC的库，OPT的库一样。
 
+>[英伟达](https://www.nvidia.cn/use-cases/robot-learning/?deeplink=content-tab--2)
+>
+>首先，在各种环境中配置种类繁多的机器人，定义 RL 任务，并使用 GPU 优化库 (例如 RSL RL、RL-Games、SKRL 和 Stable Baselines3) 训练模型
+
+
+
 ## 关于物理仿真引擎
 >【GPT】:所有现代物理引擎本质就是数值动力学仿真器，画面只是“渲染结果”，和物理计算是分离的。
 >
