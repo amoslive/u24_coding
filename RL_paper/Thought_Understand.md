@@ -1,3 +1,8 @@
+## RL库
+[强化学习库比较](https://docs.robotsfan.com/isaaclab/source/overview/reinforcement-learning/rl_frameworks.html)
+
+[注]：就好像MPC的库，OPT的库一样。
+
 ## 关于物理仿真引擎
 >【GPT】:所有现代物理引擎本质就是数值动力学仿真器，画面只是“渲染结果”，和物理计算是分离的。
 >
