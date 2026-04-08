@@ -77,7 +77,7 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 
 #### 4月15号前DB Bahncard转62.9欧（备注）
 
-#### 买网线Amazon解封中
+#### 买网线中
 
 ## overall思路断点
 
