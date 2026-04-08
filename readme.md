@@ -9,7 +9,7 @@
 
 >在md里嵌入python代码
 >
->```python
+>**```python**
 >print("hello")
 >x = 1 + 2
 >print(x)
