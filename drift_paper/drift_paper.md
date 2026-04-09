@@ -5,3 +5,8 @@
 https://github.com/zhou-yh19/xcar-rlgpu/tree/main
 
 https://zhou-yh19.github.io/xcar-hardware/
+
+
+https://f1tenth.readthedocs.io/en/foxy_test/getting_started/intro.html
+
+https://github.com/f1tenth
