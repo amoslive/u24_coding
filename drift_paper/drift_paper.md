@@ -10,3 +10,5 @@ https://zhou-yh19.github.io/xcar-hardware/
 https://f1tenth.readthedocs.io/en/foxy_test/getting_started/intro.html
 
 https://github.com/f1tenth
+
+[基于NMPC的自动驾驶车辆漂移控制](https://www.auto-testing.net/news/show-123595.html)
