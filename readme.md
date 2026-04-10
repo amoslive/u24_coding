@@ -104,3 +104,7 @@ https://www.bilibili.com/video/BV1K4tAz6Enp/?spm_id_from=333.788.recommend_more_
 Build a custom experimental vehicle with front/rear steering and independent four-wheel motor control
 
 Use four independent wheel motors to emulate front/rear drive and independent four-wheel braking.
+
+Develop a simplified PyTorch-based front/rear steering simulation model for GPU training
+
+Validation using a more accurate 14-DOF model
