@@ -87,3 +87,16 @@ Python调用Simulink（当作黑盒，给输入u，它输出状态）
 
 
 Successfully ran the algorithm locally by developing the necessary supporting code
+
+雪地
+
+https://www.bilibili.com/video/BV1g94y1P7Ns/?spm_id_from=333.337.search-card.all.click&vd_source=251c62c44a57f3794b5f1c23f7913b1e
+
+
+ETH
+
+https://www.bilibili.com/video/BV1Sk4y1q7d1/?spm_id_from=333.337.search-card.all.click&vd_source=251c62c44a57f3794b5f1c23f7913b1e
+
+Tsinghua
+
+https://www.bilibili.com/video/BV1K4tAz6Enp/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2479604-5tzfh.1775734480477.842&vd_source=251c62c44a57f3794b5f1c23f7913b1e
