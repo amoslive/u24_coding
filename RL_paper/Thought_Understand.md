@@ -38,6 +38,11 @@
 
 [pinocchio-overview](https://gepettoweb.laas.fr/doc/stack-of-tasks/pinocchio/devel/doxygen-html/)
 
+
+## Policy Gradient
+
+[GPT对policy gradient的解释](../doc/policy_gradient_gpt.md)
+
 ## 计算机
 
 如何用好计算机，就好比是摸金校尉有个法器，如何用它一样。
