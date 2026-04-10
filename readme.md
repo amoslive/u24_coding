@@ -109,6 +109,6 @@ Develop a simplified PyTorch-based front/rear steering simulation model for GPU 
 
 Validation using a more accurate 14-DOF model
 
-Enable tracking of any feasible drifting trajectory
+Enable tracking of any feasible drifting trajectory.
 We aim to enable the vehicle to follow any feasible drifting trajectory.
-Enable tracking of any feasible drifting trajectory
+Enable tracking of any feasible drifting trajectory.
